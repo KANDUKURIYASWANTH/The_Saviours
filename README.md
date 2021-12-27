@@ -5,7 +5,11 @@ This is an event in Avishkar the tech fest of MNNIT
 Here we are using th concepts of deep learning and machine learning to decode the audio
 
 Team members
+
 Kandukuri Yaswanth 20201057 - Civil Engineering;
+
 Latchreddi Ekalavya 20203086 - Mechanical Engineering;
+
 Ippili Gunavardhan 20203068 - Mechanical Engineering;
+
 Konigeti Abhidev 20203077 - Mechanical Engineering
