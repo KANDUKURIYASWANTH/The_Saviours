@@ -5,7 +5,7 @@ Now we are decoding it to know their plan and attack them as one last chance to 
 
 This is an event named Decode the information under Robomania in Avishkar the tech fest of MNNIT 
 
-Here we are using th concepts of deep learning and machine learning to decode the audio
+Here we are using th concepts of deep learning and speech recogniser to decode the audio
 
 Team members
 
