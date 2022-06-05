@@ -18,5 +18,20 @@ _**Problem statement**:_ After the cruel invasion of aliens on earth we lost all
 Now we are decoding it to know their plan and attack them as one last chance to save the humankind, to save the mother earth form the aliens.
 
 # Tech stack used
+* Python
+* Jupyter notebook
+* Sklearn.model_selection
+* Tensorflow - Keras
+* Matplotlib
+* Librosa
+* Math
+* Speech_recognition
+* Pydud
 
+# Approach
+1. Extracting the MFCC values for training audios using librosa
+2. Training audio using keras with MFCC values
+3. Predicting the test audio
+4. Seperating the persons using prediction values
+5. Converting the audio into speech recognition
 
